@@ -1,0 +1,1 @@
+﻿public Static2DMap(int width, int height, double horizontalAngle, double verticalAngle, ushort maxDepth, ushort hostHeight){

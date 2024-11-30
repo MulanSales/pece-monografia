@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "smell-detector-api"
+version = "0.1.0"
+description = ""
+authors = ["Luan Sales <luanmsacc@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.115.5"
+uvicorn = {extras = ["standard"], version = "^0.32.0"}
+pandas = "^2.2.3"
+pydantic = "^2.9.2"
+joblib = "^1.4.2"
+transformers = "^4.46.2"
+torch = "^2.5.1"
+scikit-learn = "1.5.1"
+xgboost = "^2.1.2"
+gensim = "^4.3.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

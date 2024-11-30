@@ -1,0 +1,1 @@
+﻿protected override JsonContract CreateContract(Type objectType)
