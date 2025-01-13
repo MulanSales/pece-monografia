@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Miranda Sales
+    given-names: Luan
+title: "Smell Detector - prototype model for code smell detection based on commit history"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.14636923
+date-released: 2025-01-13
